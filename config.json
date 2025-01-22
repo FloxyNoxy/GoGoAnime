@@ -1,0 +1,22 @@
+[
+    {
+        "GoGoAnime_Username":"ethanbrianq@gmail.com",
+        "GoGoAnime_Password":"Humview9227!",
+        "MaxConcurrentDownloads": 3,
+        "CurrentGoGoAnimeDomain": "bz",
+        "OverwriteDownloads": 0,
+        "CLIQuality":"1080",
+        "CLIDownloadLocation": "Clioutput",
+        "CleanUpFileName": true,
+        "DownloadRetries": 3,
+        "URLExceptions": {
+            "houjou-no-megamihen": "houjou-no-megami-hen",
+            "kami-no-tou-koubousen": "kami-no-tou-koubou-sen",
+            "shangrila-frontier-kusoge-hunter-kamige-ni-idoman-to-su-2nd-season": "shangri-la-frontier-kusoge-hunter-kamige-ni-idoman-to-su-2nd-season"
+        },
+        "SeasonNameExceptions": {
+            "Dungeon Ni Deai Wo Motomeru No Wa Machigatteiru Darou Ka V Houjou No Megamihen": "Dungeon Ni Deai O Notomeru No Wa Machigatte Iru Darouka Season 5",
+            "Kami No Tou Koubousen": "Kami No Tou Season 3"
+        }
+    }
+]
